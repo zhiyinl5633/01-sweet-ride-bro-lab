@@ -1,9 +1,4 @@
----
-tags: kids, tdd, rspec
-languages: ruby
-level: 1
-type: lab
----
+
 
 # Sweet Ride, Bro
 
