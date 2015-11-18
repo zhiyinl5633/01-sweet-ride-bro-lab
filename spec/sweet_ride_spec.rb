@@ -9,7 +9,7 @@ describe "SUPER AWESOME CAR" do
 	end
 
 	describe "no_big_deal" do
-		it "returns a string 'no big deal, it's a ' with the argument added to it" do
+		it "returns a string 'No big deal, it's a ' with the argument added to it" do
 			expect(no_big_deal("Ferrari")).to eq("No big deal, it's a Ferrari")
 		end
 	end
