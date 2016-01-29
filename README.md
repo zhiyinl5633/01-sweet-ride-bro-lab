@@ -8,4 +8,4 @@ Oh hey. Didn't see you there. I was too busy polishing up my sweet new 1996 Toyo
 
 Anyway, I have a few Learn tests for you to figure out, kid. Clone this repo and run `learn` once you `cd` into the local clone directory.
 
-<a href='https://learn.co/lessons/hs-tdd-sweet-ride-bro-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-tdd-sweet-ride-bro-lab' title='Sweet Ride, Bro'>Sweet Ride, Bro</a> on Learn.co and start learning to code for free.</p>
